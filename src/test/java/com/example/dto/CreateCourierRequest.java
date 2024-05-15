@@ -25,4 +25,5 @@ public class CreateCourierRequest {
     public String getFirstName() {
         return firstName;
     }
+
 }
